@@ -7,5 +7,3 @@ for (let i = 0; i < args.length; i++) {
     }, 1000 * args[i]);
   }
 }
-
-typeof Number(args[i]) == 'number'
